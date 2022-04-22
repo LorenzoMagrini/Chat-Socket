@@ -1,0 +1,23 @@
+﻿<Window x:Class="Chat_Socket.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chat_Socket"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <ListBox x:Name="lstMessaggi" Margin="43,65,515,42"/>
+        <TextBox x:Name="txtIP" HorizontalAlignment="Left" Margin="500,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="20"/>
+        <TextBox x:Name="txtPorta" HorizontalAlignment="Left" Margin="500,179,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtMessaggio" HorizontalAlignment="Left" Margin="500,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnInvia" Content="Invia" HorizontalAlignment="Left" Margin="500,353,0,0" VerticalAlignment="Top" Height="39" Width="120" Click="btnInvia_Click"/>
+        <Label Content="Inserire Indirizzo IP" HorizontalAlignment="Left" Margin="500,65,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Inserire Messaggio" HorizontalAlignment="Left" Margin="500,250,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Inserire Porta" HorizontalAlignment="Left" Margin="500,153,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblProva" Content="" HorizontalAlignment="Left" Margin="43,23,0,0" VerticalAlignment="Top" Height="31" Width="242"/>
+        <ComboBox x:Name="cmbAgenda" HorizontalAlignment="Left" Margin="640,91,0,0" VerticalAlignment="Top" Width="138" SelectionChanged="cmbAgenda_SelectionChanged" Height="20"/>
+        <Label Content="Contatti" HorizontalAlignment="Left" Margin="640,65,0,0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

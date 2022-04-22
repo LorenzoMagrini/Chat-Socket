@@ -1,0 +1,98 @@
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.exe
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.deps.json
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.runtimeconfig.json
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.runtimeconfig.dev.json
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.dll
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.pdb
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.csproj.AssemblyReference.cache
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket_MarkupCompile.cache
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket_MarkupCompile.lref
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.g.resources
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.AssemblyInfoInputs.cache
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.AssemblyInfo.cs
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.dll
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.pdb
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.genruntimeconfig.cache
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.exe
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.deps.json
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.runtimeconfig.json
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.runtimeconfig.dev.json
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.dll
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.pdb
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.csproj.AssemblyReference.cache
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket_MarkupCompile.cache
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket_MarkupCompile.lref
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.g.resources
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.AssemblyInfoInputs.cache
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.AssemblyInfo.cs
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.dll
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.pdb
+C:\Users\lorenzo.magrini\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.genruntimeconfig.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.exe
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.deps.json
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.runtimeconfig.json
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.runtimeconfig.dev.json
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.dll
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.pdb
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.csproj.AssemblyReference.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket_MarkupCompile.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket_MarkupCompile.lref
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.g.resources
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.AssemblyInfoInputs.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.AssemblyInfo.cs
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.csproj.CoreCompileInputs.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.dll
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.pdb
+E:\Users\magri\Desktop\Chat Socket\Chat Socket\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.genruntimeconfig.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.exe
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.deps.json
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.runtimeconfig.json
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.runtimeconfig.dev.json
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.dll
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.pdb
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.csproj.AssemblyReference.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket_MarkupCompile.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket_MarkupCompile.lref
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.g.resources
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.AssemblyInfoInputs.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.AssemblyInfo.cs
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.csproj.CoreCompileInputs.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.dll
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.pdb
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 3\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.genruntimeconfig.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.exe
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.deps.json
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.runtimeconfig.json
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.runtimeconfig.dev.json
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.dll
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\bin\Debug\netcoreapp3.1\Chat Socket.pdb
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.csproj.AssemblyReference.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket_MarkupCompile.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket_MarkupCompile.lref
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.g.resources
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.AssemblyInfoInputs.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.AssemblyInfo.cs
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.csproj.CoreCompileInputs.cache
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.dll
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.pdb
+E:\Users\magri\Desktop\Chat Socket\Chat Socket - 2\Chat Socket\obj\Debug\netcoreapp3.1\Chat Socket.genruntimeconfig.cache
